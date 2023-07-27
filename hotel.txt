@@ -1,0 +1,4 @@
+Hotel 1
+Hotel 2
+Hotel 3
+
